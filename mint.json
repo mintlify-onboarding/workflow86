@@ -1,8 +1,11 @@
 {
   "name": "Workflow86",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "feedback": {
+    "thumbsRating": true
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -30,6 +33,22 @@
     {
       "group": "Introduction",
       "pages": ["docs/introduction/welcome", "docs/introduction/terminology"]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        "docs/getting-started/run-first-workflow",
+        "docs/getting-started/customise-workflow",
+        "docs/getting-started/build-workflow"
+      ]
+    },
+    {
+      "group": "Introduction",
+      "pages": [
+        "courses/welcome",
+        "courses/user-course",
+        "courses/apprentice-builder"
+      ]
     }
   ],
   "footerSocials": {
