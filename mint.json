@@ -1,0 +1,39 @@
+{
+  "name": "Workflow86",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#808080",
+    "light": "#929292",
+    "dark": "#808080"
+  },
+  "topbarCtaButton": {
+    "name": "Start for free",
+    "url": "https://app.workflow86.com/signUp"
+  },
+  "topbarLinks": [
+    {
+      "name": "Login",
+      "url": "https://app.workflow86.com/"
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Courses",
+      "url": "courses"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": ["docs/introduction/welcome", "docs/introduction/terminology"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/workflow86",
+    "linkedin": "https://www.linkedin.com/company/18698636/admin/"
+  }
+}
