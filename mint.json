@@ -32,29 +32,34 @@
   ],
   "navigation": [
     {
-      "group": "Introduction",
-      "pages": ["docs/introduction/welcome", "docs/introduction/terminology"]
-    },
-    {
-      "group": "Introduction",
+      "group": "Home",
       "pages": [
-        "courses/welcome",
-        "courses/user-course",
-        "courses/apprentice-builder"
-      ]
-    },
-    {
-      "group": "Getting Started",
-      "pages": [
-        "docs/getting-started/run-first-workflow",
-        "docs/getting-started/customise-workflow",
-        "docs/getting-started/build-workflow"
-      ]
-    },
-    {
-      "group": "Notes",
-      "pages": [
-        "docs/notes/notes"
+        {
+          "group": "Introduction",
+          "pages": ["docs/introduction/welcome", "docs/introduction/terminology"]
+        },
+        {
+          "group": "Introduction",
+          "pages": [
+            "courses/welcome",
+            "courses/user-course",
+            "courses/apprentice-builder"
+          ]
+        },
+        {
+          "group": "Getting Started",
+          "pages": [
+            "docs/getting-started/run-first-workflow",
+            "docs/getting-started/customise-workflow",
+            "docs/getting-started/build-workflow"
+          ]
+        },
+        {
+          "group": "Notes",
+          "pages": [
+            "docs/notes/notes"
+          ]
+        }
       ]
     }
   ],
