@@ -10,6 +10,9 @@
     "light": "#929292",
     "dark": "#808080"
   },
+  "modeToggle": {
+    "default": "light"
+  },
   "topbarCtaButton": {
     "name": "Start for free",
     "url": "https://app.workflow86.com/signUp"
