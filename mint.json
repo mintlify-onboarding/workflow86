@@ -4,18 +4,19 @@
     "light": "/logo/light.png",
     "dark": "/logo/dark.png"
   },
-  "feedback": {
-    "thumbsRating": true
-  },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#808080",
+    "primary": "#2196f3",
     "light": "#929292",
     "dark": "#808080"
   },
   "topbarCtaButton": {
     "name": "Start for free",
     "url": "https://app.workflow86.com/signUp"
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true
   },
   "topbarLinks": [
     {
@@ -35,6 +36,14 @@
       "pages": ["docs/introduction/welcome", "docs/introduction/terminology"]
     },
     {
+      "group": "Introduction",
+      "pages": [
+        "courses/welcome",
+        "courses/user-course",
+        "courses/apprentice-builder"
+      ]
+    },
+    {
       "group": "Getting Started",
       "pages": [
         "docs/getting-started/run-first-workflow",
@@ -43,11 +52,9 @@
       ]
     },
     {
-      "group": "Introduction",
+      "group": "Notes",
       "pages": [
-        "courses/welcome",
-        "courses/user-course",
-        "courses/apprentice-builder"
+        "docs/notes/notes"
       ]
     }
   ],
